@@ -21,7 +21,8 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-     ````python
+
+ ````python
      import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
